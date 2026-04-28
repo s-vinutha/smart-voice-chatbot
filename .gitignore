@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Heavy audio and model files
+*.wav
+*.mp3
+*.pt
+*.pth
+*.h5
+models/
